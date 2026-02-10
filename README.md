@@ -18,7 +18,7 @@
 
 ## Chapter 3
 - [Overview](https://annahomkes.github.io/chapter3.html)
-- [Hands-On Practice](https://annahomkes.github.io/chapter3-hop.html)
+- [Hands-On Practice](https://annahomkes.github.io/chapter3-hands-on-practice/chapter3-hop.html)
 - [Assignment](https://annahomkes.github.io/chapter3-assignment.html)
 
 ---
