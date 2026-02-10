@@ -31,7 +31,9 @@
 ---
 
 ## Chapter 6
-- [Assignment](PASTE_CHAPTER_6_LINK_HERE)
+- [Overview](https://annahomkes.github.io/chapter4.html)
+- [Hands-On Practice](https://annahomkes.github.io/chapter6.html)
+- [Assignment](https://annahomkes.github.io/chapter4-assignment.html)
 
 ---
 
